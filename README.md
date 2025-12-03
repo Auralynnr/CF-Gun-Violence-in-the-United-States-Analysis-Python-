@@ -4,6 +4,7 @@ Python + Tableau analysis of multi-year Gun Violence Archive data to explore whe
 
 This repo contains reproducible notebooks, a tidy data pipeline, and clear visuals that move from early exploration (EDA, correlation, clustering) to more actionable geographic and time-based insights.
 
+🔗 **Interactive Tableau Story:** [View the dashboard on Tableau Public](https://public.tableau.com/views/GunViolenceintheUnitedStates_17647715349050/GUNVIOLENCESTORY?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## Disclaimer
@@ -85,3 +86,18 @@ My task is to perform an exploratory data analysis of multi-year GVA incident da
 ## About
 
 Python + Tableau analysis of Gun Violence Archive data to explore incident severity, geography, and seasonality. The project emphasizes transparent analytical thinking: starting with broad EDA, documenting methods that didn’t provide clear answers (correlation, clustering), and ending with more interpretable, stakeholder-ready views in Tableau to support data-informed public safety decisions.
+
+---
+
+## Tableau Story
+
+The final findings are presented in an interactive Tableau storyboard that walks through:
+
+- Overall KPIs and trends (incidents, killed, injured, total victims)  
+- Correlation and clustering attempts that were not very useful  
+- State-level concentration of incidents  
+- Seasonality and partial 2018 effects  
+- Summary, limitations, and next steps  
+
+👉 [View the Tableau story on Tableau Public](https://public.tableau.com/views/GunViolenceintheUnitedStates_17647715349050/GUNVIOLENCESTORY?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
